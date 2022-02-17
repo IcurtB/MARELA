@@ -134,7 +134,7 @@ header>div>p{
 
 /*---------------------------------------*/
 .img_box{
-    justify-content: space-around!important;
+    justify-content: space-between!important;
     padding: 0 131px;
     margin-bottom: 70.36px;
 }
@@ -160,7 +160,9 @@ header>div>p{
     }
     .left_box{
         justify-content: space-between!important;
+        width: 1215px;
         }
+
         .left_box_text{
             width: 486px;
             padding-left: 60.5px;
@@ -185,3 +187,12 @@ header>div>p{
                     margin-bottom: 10px;
                     color: #5F4D5D;
                 }
+/*--------------------------------*/
+/*ТУТ НАХОДИТЬСЯ РАЗДЕЛИТЕЛЬНАЯ ЛИНИЯ*/
+.line{
+    margin: 40.5px 0;
+    width: 1215px;
+    height: 1px;
+    background-color: #D7B7D4;
+}
+/*----------------------------------*/
