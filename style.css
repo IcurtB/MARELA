@@ -90,3 +90,47 @@ header>div>p{
     border-bottom: 2px solid #fff;
 }
 /*------------*/
+/*div class="header"*/
+.header{
+    flex-direction: column;
+    margin-top: 63px;
+    }
+    .header>p{
+        font-family: 'Roboto', sans-serif;
+        font-size: 14px;
+        line-height: 30px;
+        letter-spacing: 1.5px;
+        width: 197px;
+        color: #B99BB6;
+
+    }
+    .header>.middle{
+        font-family: 'Cormorant Garamond', serif;
+        font-size: 26px;
+        line-height: 38px;
+        color: #B99BB6!important;
+        width: 747px!important;
+        letter-spacing: 0;
+        margin: 0;
+    }
+    .header>div{
+        width: 141px;
+        height: 45px;
+        border: 0.5px solid #B99BB6;
+        border-radius: 22.5px;
+        margin-top: 17px;
+        margin-bottom: 50px;
+
+
+        }
+        .header>div>p {
+            font-family: 'Roboto', sans-serif;
+            font-size: 11px;
+            line-height: 15px;
+            letter-spacing: 1.5px;
+            color: #B99BB6;
+            text-transform: uppercase;
+        }
+
+/*---------------------------------------*/
+/*  div class="left_box"  */
