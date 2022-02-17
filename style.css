@@ -219,3 +219,37 @@ header>div>p{
         text-transform: uppercase;
         text-align: center;
     }
+
+/*    ----------------------------------*/
+
+.img_box_{
+    margin-top: 91.03px;
+    padding: 0 144.5px 0 112.5px;
+    }
+    .img_box_column{
+        width: 1183px;
+        justify-content: space-between;
+    }
+    .img_box_card{
+        flex-direction: column;
+        width: 377px;
+        }
+        .img_box_card>div>p{
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 24px;
+            line-height: 30px;
+            margin: 9px 0 0 0 ;
+            color: #5F4D5D;
+        }
+        .img_box_card>p{
+            font-family: Roboto, sans-serif;
+            line-height: 17.5px;
+            font-size: 16px;
+            color: #B0B0B0;
+            margin: 7px 0 0 0;
+        }
+.space{
+    margin-top: 54px;
+}
+
+/**/
